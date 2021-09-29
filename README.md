@@ -1,0 +1,1 @@
+This login- logout App is built with React components which provides simple authentication to an Email(username) and password. Some React concepts in use in this app includes: Handling side effects, using forward Refs, using the useState, useEffect, useReducer and useContent hooks.
